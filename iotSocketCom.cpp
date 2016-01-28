@@ -74,7 +74,7 @@ bool IotSocketCom::readCmdFile(){
 
     // Open the communication file to read the command
     std::fstream cmdFile;
-    cmdFile.open("/home/pi/iotDomotica/communication", std::fstream::in);
+    cmdFile.open("/home/pi/nRFdomotica/communication", std::fstream::in);
 
     // Peek if the file is empty
     if(cmdFile.peek() != std::fstream::traits_type::eof()) {
