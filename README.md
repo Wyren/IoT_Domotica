@@ -9,8 +9,8 @@ To-do list
 - Improve wireless encryption
 - Create flexible device array
 - Create error report update to inform the user
--- New device added
--- No devices found
--- No acknowledgement received
+- - New device added
+- - No devices found
+- - No acknowledgement received
 - Make the program multi process
 - Implement a timer controle for communication (for a maximum amount of time)
