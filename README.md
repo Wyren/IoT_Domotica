@@ -4,7 +4,7 @@ Intern project for further development
 
 To-do list
 - Implement the socket communication
--- Add json parser
+- - Add json parser
 - Implement prosessing the device controler commands
 - Improve wireless encryption
 - Create flexible device array
