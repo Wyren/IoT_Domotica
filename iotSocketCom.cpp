@@ -96,7 +96,7 @@ bool IotSocketCom::readCmdFile(){
         }
 
         // Clear the file
-        cmdFile.open("/home/pi/iotDomotica/communication", std::fstream::out | std::fstream::trunc);
+        cmdFile.open("/home/pi/nRFdomotica/communication", std::fstream::out | std::fstream::trunc);
     }
     
     cmdFile.close();
