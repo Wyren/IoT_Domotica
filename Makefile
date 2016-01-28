@@ -29,9 +29,9 @@ endif
 
 # define all programs
 PROGRAM = iotMain
-OBJECTS = iotMain.o iotComMan.o iotNRFCom.o iotDebug.o
-SOURCES = iotMain.cpp iotComMan.cpp iotNRFCom.cpp iotDebug.cpp
-HEADER = iotInit.h iotComMan.h iotNRFCom.h iotDebug.h
+OBJECTS = iotMain.o iotComMan.o iotNRFCom.o iotDebug.o iotSocketCom.o
+SOURCES = iotMain.cpp iotComMan.cpp iotNRFCom.cpp iotDebug.cpp iotSocketCom.cpp
+HEADER = iotInit.h iotComMan.h iotNRFCom.h iotDebug.h iotSocketCom.h
 
 all: ${PROGRAM}
 
