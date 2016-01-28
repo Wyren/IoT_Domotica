@@ -9,3 +9,9 @@ To-do list:
 - Create a Senseo module
 - Create a doorbell module
 - Create a generic hardware design 230v - 5v/3.3v
+
+How to install:
+ - *
+
+How to use:
+ - *
