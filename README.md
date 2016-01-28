@@ -2,7 +2,7 @@
 
 Intern project for further development
 
-To-do list
+To-do list:
 - Implement the socket communication
 - - Add json parser
 - Implement prosessing the device controler commands
