@@ -2,7 +2,7 @@
 
 Intern project for further development
 
-to-do list:
+To-do list:
 - Create a set of basic code for each module
 - Create a generic relay module
 - Create a 1-, 3-channel dimmer module
