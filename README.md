@@ -1,6 +1,8 @@
 # IoT_Domotica - Raspberry program
 
 Intern project for further development
+At the moment pilight is used to send commands to the devices; https://www.pilight.org/
+This happens via the communication file for now.
 
 Install guide:
 * To use the nRF, the libriary of TMRh20 will be used.
