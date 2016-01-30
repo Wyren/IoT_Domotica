@@ -15,5 +15,5 @@ Install guide:
  * sudo git clone -b Raspberry_nRF https://github.com/Wyren/IoT_Domotica.git nRFdomotica
  * cd nRFdomotica
  * sudo make
-* To run the program type in:
+* To run the program type in the nRFdomotica folder:
  * sudo ./iotMain
